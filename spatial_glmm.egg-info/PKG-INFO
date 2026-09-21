@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: spatial-glmm
+Version: 0.1.0
+Summary: GLMM with custom link functions for spatially resolved transcriptomics
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
